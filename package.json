@@ -1,0 +1,8 @@
+{
+  "name": "onli-mcp-service",
+  "version": "1.0.0",
+  "description": "Minimal ONLI Model Context Protocol service for recommending configurations and planning flows",
+  "main": "src/index.js",
+  "type": "commonjs",
+  "license": "MIT"
+}
